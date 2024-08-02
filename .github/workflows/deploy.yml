@@ -4,6 +4,10 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+  deployments: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -22,6 +26,7 @@ jobs:
       - name: Build
         run: hugo --gc --minify
       - name: Deploy to Vercel
+        id: vercel-deploy
         uses: amondnet/vercel-action@v25
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -30,6 +35,6 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID_STATIC }}
           working-directory: public
-      - name: preview-url
+      - name: Preview URL
         run: |
-          echo ${{ steps.vercel-action.outputs.preview-url }}
+          echo "Preview URL: ${{ steps.vercel-deploy.outputs.preview-url }}"
