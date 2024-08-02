@@ -14,6 +14,10 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.124.1'
+      - name: Install Nodejs
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
       - name: Build
         run: hugo --gc --minify
       - name: Deploy to Vercel
