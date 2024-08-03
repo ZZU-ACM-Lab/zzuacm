@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Yu Qiu
+title: Siwei Zhang
 
 # Full name (for SEO)
-first_name: Yu
-last_name: Qiu
+first_name: Siwei
+last_name: Zhang
 
-sortid: 2024
+sortid: 2022
 
 # Username (this should match the folder name)
 authors:
-  - 邱宇
+  - 张四维
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: NO.1 Middle School Jiaozuo
+  Graduation year: 2022 <br>
+  To: WeRide
 
 # Organizations/Affiliations
 organizations:

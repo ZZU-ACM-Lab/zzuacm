@@ -6,7 +6,7 @@ title: Yaqi Wang
 first_name: Yaqi
 last_name: Wang
 
-sortid: 2
+sortid: 2024
 
 # Username (this should match the folder name)
 authors:
@@ -17,13 +17,13 @@ superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024
-  Now:University of Science and Technology of China
+  Graduation year: 2024 <br>
+  To: University of Science and Technology of China
 
 # Organizations/Affiliations
 organizations:
   - name: Zhengzhou University
-    url: ''
+    url: 'http://www.zzu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

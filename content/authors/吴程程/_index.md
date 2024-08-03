@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Yu Qiu
+title: Chengcheng Wu
 
 # Full name (for SEO)
-first_name: Yu
-last_name: Qiu
+first_name: Chengcheng
+last_name: Wu
 
-sortid: 2024
+sortid: 2023
 
 # Username (this should match the folder name)
 authors:
-  - 邱宇
+  - 吴程程
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: NO.1 Middle School Jiaozuo
+  Graduation year: 2023 <br>
+  To: Beihang University
 
 # Organizations/Affiliations
 organizations:

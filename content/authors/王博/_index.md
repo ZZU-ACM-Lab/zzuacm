@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Yu Qiu
+title: Bo Wang
 
 # Full name (for SEO)
-first_name: Yu
-last_name: Qiu
+first_name: Bo
+last_name: Wang
 
-sortid: 2024
+sortid: 2023
 
 # Username (this should match the folder name)
 authors:
-  - 邱宇
+  - 王博
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: NO.1 Middle School Jiaozuo
+  Graduation year: 2023 <br>
+  To: Beijing University of Posts and Telecommunications
 
 # Organizations/Affiliations
 organizations:

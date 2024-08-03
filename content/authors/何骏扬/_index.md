@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Yu Qiu
+title: Junyang He
 
 # Full name (for SEO)
-first_name: Yu
-last_name: Qiu
+first_name: Junyang
+last_name: He
 
-sortid: 2024
+sortid: 2023
 
 # Username (this should match the folder name)
 authors:
-  - 邱宇
+  - 何骏扬
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: NO.1 Middle School Jiaozuo
+  Graduation year: 2023 <br>
+  To: Huazhong University of Science and Technology
 
 # Organizations/Affiliations
 organizations:

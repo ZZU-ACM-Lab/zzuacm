@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yu Qiu
+title: Guiyuan Liu
 
 # Full name (for SEO)
-first_name: Yu
-last_name: Qiu
+first_name: Guiyuan
+last_name: Liu
 
 sortid: 2024
 
 # Username (this should match the folder name)
 authors:
-  - 邱宇
+  - 刘贵源
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2024 <br>
-  To: NO.1 Middle School Jiaozuo
+  To: Xiaomi
 
 # Organizations/Affiliations
 organizations:

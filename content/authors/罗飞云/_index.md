@@ -5,8 +5,8 @@ title: Feiyun Luo
 # Full name (for SEO)
 first_name: Feiyun
 last_name: Luo
-
-sortid: 2
+# 使用毕业年份作为排序字段
+sortid: 2026
 
 # Username (this should match the folder name)
 authors:
@@ -21,7 +21,7 @@ role: Leader
 # Organizations/Affiliations
 organizations:
   - name: Zhengzhou University
-    url: ''
+    url: 'http://www.zzu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

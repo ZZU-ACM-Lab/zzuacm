@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yu Qiu
+title: Zipan Li
 
 # Full name (for SEO)
-first_name: Yu
-last_name: Qiu
+first_name: Zipan
+last_name: Li
 
 sortid: 2024
 
 # Username (this should match the folder name)
 authors:
-  - 邱宇
+  - 李自攀
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2024 <br>
-  To: NO.1 Middle School Jiaozuo
+  To: Ailibaba
 
 # Organizations/Affiliations
 organizations:
