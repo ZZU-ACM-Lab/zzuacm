@@ -18,28 +18,28 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Competitions & Explorations ✨
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: sz_ccpc.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
       - title: ZZUACM Lab
-        content: 'Just opened last month!'
+        content: 'Come on to join us!🏆'
         align: right
         background:
           image:
             filename: icpc.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: paper-plane
           icon_pack: fas
           text: Join Us
           url: ../contact/
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
   # 实验室介绍
@@ -80,25 +80,25 @@ sections:
       view: card
       columns: '2'
   
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: pic.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
   # - block: collection
   #   content:

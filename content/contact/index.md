@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        :zap: Welcome to join ZZUACM Lab :zap:
+        ### :zap: Welcome to join ZZUACM Lab :zap:
 
         If you want to join ZZUACM Lab, participate in our QQ Group, the number is **562888278**.
       # email: test@example.org
@@ -58,7 +58,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: mit_wins.jpg
           filters:
             brightness: 1
           parallax: false

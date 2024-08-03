@@ -28,8 +28,12 @@ Windows:
 - set up the environment: Go, Hugo(latest version), Git, nodejs
 
 > You need to set the environment virables in the system, including go and hugo.
-> You can see your go version by running `go version`, my version `1.22.1 Windows/amd64`
-> And the Hugo version by running `hugo version`, my version `0.124.1 + extended`
+>
+> You can see your go version by running `go version`, my version is `1.22.1 Windows/amd64`
+> 
+> And the Hugo version by running `hugo version` , my version is `0.124.1 + extended`
 
-- run `hugo server -D` in powershell
+- run `hugo --gc` to clear the cache
+
+- run `hugo server -D` in powershell to check the site
 

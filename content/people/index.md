@@ -12,7 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Admins
-          - Main Members
+          - Members
           - Alumni
       sort_by: Params.sortid
       sort_ascending: false
