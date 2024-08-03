@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Xi Li
 
 # Full name (for SEO)
-first_name: Zhiyu
+first_name: Xi
 last_name: Li
 
-sortid: 2024
+sortid: 2023
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 李玺
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  Graduation year: 2023 <br>
+  To: TAL
 
 # Organizations/Affiliations
 organizations:

@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Zhipeng Hu
 
 # Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
+first_name: Zhipeng
+last_name: Hu
 
-sortid: 2024
+sortid: 2019
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 胡志鹏
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  Graduation year: 2019 <br>
+  To: Baidu
 
 # Organizations/Affiliations
 organizations:

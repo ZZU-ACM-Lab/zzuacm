@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Qingsong Lyu
 
 # Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
+first_name: Qingsong
+last_name: Lyu
 
-sortid: 2024
+sortid: 2023
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 吕青松
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  Graduation year: 2023 <br>
+  To: Tsinghua University
 
 # Organizations/Affiliations
 organizations:

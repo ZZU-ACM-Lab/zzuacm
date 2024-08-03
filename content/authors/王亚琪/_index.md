@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2024 <br>
-  To: University of Science and Technology of China
+  To: University of Science and Technology of China (USTC)
 
 # Organizations/Affiliations
 organizations:

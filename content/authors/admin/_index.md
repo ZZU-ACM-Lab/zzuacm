@@ -12,12 +12,12 @@ sortid: 9999
 superuser: true
 
 # Role/position
-role: Associate Professor, Coach
+role: Coach
 
 # Organizations/Affiliations
 organizations:
   - name: Zhengzhou University
-    url: ''
+    url: 'http://www.zzu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,7 +71,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Admins
+  - Faculty
+
 ---
 
-Editing...
+

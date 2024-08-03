@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Xiaolong Guo
 
 # Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
+first_name: Xiaolong
+last_name: Guo
 
-sortid: 2024
+sortid: 2022
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 郭晓龙
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  Graduation year: 2022 <br>
+  To: Postgraduate, ShanghaiTech University
 
 # Organizations/Affiliations
 organizations:
@@ -49,10 +49,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:2788852163@qq.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -77,4 +77,4 @@ user_groups:
   - Alumni
 ---
 
-Editing...
+I graduated in 2022 in Zhengzhou University, majoring in the IOT. I have worked as a java developer in Fanruan Software Co until May, 2023. Now I am a graduate student in ShanghaiTech University. My research interest is storage-system. I would get my master degree in 2027 if everything goes as expected.

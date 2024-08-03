@@ -1,24 +1,18 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Xiaoqiang Yan
 
-# Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
-
-sortid: 2024
-
-# Username (this should match the folder name)
-authors:
-  - 李智宇
+# Full Name (for SEO)
+first_name: Xiaoqiang
+last_name: Yan
+# 排序id使用毕业年份 注意修改
+sortid: 9996
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+role: Coach
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +46,7 @@ organizations:
 # social:
 #   - icon: envelope
 #     icon_pack: fas
-#     link: 'mailto:test@example.org'
+#     link: 'mailto:ieypwu@zzu.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -71,10 +65,14 @@ organizations:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Faculty
+
 ---
 
-Editing...
+http://www7.zzu.edu.cn/csai/info/1233/1941.htm

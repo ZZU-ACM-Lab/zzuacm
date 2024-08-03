@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2024 <br>
-  To: Fudan University
+  To: Fudan University (FDU)
 
 # Organizations/Affiliations
 organizations:

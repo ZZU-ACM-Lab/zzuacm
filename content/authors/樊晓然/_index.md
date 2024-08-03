@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Xiaoran Fan
 
 # Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
+first_name: Xiaoran
+last_name: Fan
 
-sortid: 2024
+sortid: 2016
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 樊晓然
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  Graduation year: 2016 <br>
+  To: Fudan University
 
 # Organizations/Affiliations
 organizations:
@@ -49,10 +49,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:17803861495@163.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -77,4 +77,4 @@ user_groups:
   - Alumni
 ---
 
-Editing...
+曾在百度文心一言团队，字节跳动Ailab实习，目前在FudanNLP，主要方向为LLM，多模态。欢迎交流，共同进步~

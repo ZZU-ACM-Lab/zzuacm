@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Hanzhang Ma
 
 # Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
+first_name: Hanzhang
+last_name: Ma
 
-sortid: 2024
+sortid: 2022
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 马含章
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  Graduation year: 2022 <br>
+  To: Ludwig-Maximilian University
 
 # Organizations/Affiliations
 organizations:
@@ -49,10 +49,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:mahanzhang2000@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen

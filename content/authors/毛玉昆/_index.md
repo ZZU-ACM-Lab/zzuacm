@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Yukun Mao
 
 # Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
+first_name: Yukun
+last_name: Mao
 
-sortid: 2024
+sortid: 2017
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 毛玉昆
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  Graduation year: 2017 <br>
+  To: Fudan University
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ organizations:
 # social:
 #   - icon: envelope
 #     icon_pack: fas
-#     link: 'mailto:test@example.org'
+#     link: 'mailto:example@qq.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -76,5 +76,3 @@ email: ''
 user_groups:
   - Alumni
 ---
-
-Editing...

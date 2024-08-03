@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2023 <br>
-  To: Sun Yat-sen University
+  To: Sun Yat-sen University (SYSU)
 
 # Organizations/Affiliations
 organizations:
