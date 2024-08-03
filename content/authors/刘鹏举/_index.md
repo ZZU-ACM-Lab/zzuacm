@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Pengjv Liu
+title: Pengju Liu
 
 # Full name (for SEO)
-first_name: Pengjv
+first_name: Pengju
 last_name: Liu
 
 sortid: 2024

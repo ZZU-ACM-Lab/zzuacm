@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Feiyun Luo
+title: Yuhan Sun
 
 # Full name (for SEO)
-first_name: Feiyun
-last_name: Luo
+first_name: Yuhan
+last_name: Sun
 # 使用毕业年份作为排序字段
-sortid: 2026-2
+sortid: 2026-1
 
 # Username (this should match the folder name)
 authors:
-  - 罗飞云
+  - 孙昱涵
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Captain
+role: Vice Captain
 
 # Organizations/Affiliations
 organizations:

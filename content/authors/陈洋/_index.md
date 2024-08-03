@@ -1,22 +1,24 @@
 ---
 # Display name
-title: Feiyun Luo
+title: Yang Chen
 
 # Full name (for SEO)
-first_name: Feiyun
-last_name: Luo
-# 使用毕业年份作为排序字段
-sortid: 2026-2
+first_name: Yang
+last_name: Chen
+
+sortid: 2021
 
 # Username (this should match the folder name)
 authors:
-  - 罗飞云
+  - 陈洋
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Captain
+role: >+
+  Graduation year: 2021 <br>
+  To: Zhengzhou Foreign Language School
 
 # Organizations/Affiliations
 organizations:
@@ -47,10 +49,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:test@example.org'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -72,7 +74,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Admins
+  - Alumni
 ---
 
 Editing...
