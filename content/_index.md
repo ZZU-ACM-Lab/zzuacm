@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the ZZUACM
+      - title: 👋 Welcome to the ZZUACM 💭💡🎈
         content: Take a look at what we're working on...
         align: center
         background:
@@ -61,24 +61,24 @@ sections:
       text: |
         The **ZZUACM Lab** at Zhengzhou University is a premier center for students interested in competitive programming, algorithms, and computer science research. Known for its strong performance in the International Collegiate Programming Contest (ICPC), the lab provides rigorous training, workshops, and mentorship to cultivate technical skills and foster innovation. It is a collaborative environment where students engage in research projects and prepare for successful careers in academia and industry.
   
-  # - block: collection
-  #   content:
-  #     title: Latest News
-  #     subtitle:
-  #     text:
-  #     count: 5
-  #     filters:
-  #       author: ''
-  #       category: ''
-  #       exclude_featured: false
-  #       publication_type: ''
-  #       tag: ''
-  #     offset: 0
-  #     order: desc
-  #     page_type: post
-  #   design:
-  #     view: card
-  #     columns: '1'
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '2'
   
   # - block: markdown
   #   content:
@@ -118,7 +118,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the lab →" %}}
     design:
       columns: '1'
 ---

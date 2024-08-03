@@ -19,6 +19,8 @@
 
 Docs: https://docs.hugoblox.com/getting-started/customize/
 
+> If you have any questions about params, please check the docs.
+
 Bootstrap docs: https://bootstrap.hugoblox.com/
 
 Windows:
