@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: ZZUACM Lab
-        content: 'Come on to join us!🏆'
+        content: 'Come to join us!🏆'
         align: right
         background:
           image:
@@ -50,7 +50,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
   # 实验室介绍
   - block: hero
     content:

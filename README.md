@@ -1,4 +1,4 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# [Hugo Group Theme](https://github.com/HugoBlox/theme-research-group)
 
 # Official
 

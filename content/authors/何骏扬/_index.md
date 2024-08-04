@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2023 <br>
-  To: Huazhong University of Science and Technology
+  To: Huazhong University of Science and Technology (HUST)
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ image:
   focal_point: 'Center'
 authors:
   - admin
-  - 王亚琪
+
 ---
 
 请跳转 http://www15.zzu.edu.cn/info/1217/77882.htm

@@ -6,7 +6,7 @@ title: Xiaoran Fan
 first_name: Xiaoran
 last_name: Fan
 
-sortid: 2016
+sortid: 2021
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2016 <br>
+  Graduation year: 2021 <br>
   To: Fudan University
 
 # Organizations/Affiliations

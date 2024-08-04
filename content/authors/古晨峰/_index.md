@@ -1,18 +1,22 @@
 ---
 # Display name
-title: Yunpeng Wu
+title: Chenfeng Gu
 
-# Full Name (for SEO)
-first_name: Yunpeng
-last_name: Wu
-# 排序id使用毕业年份 注意修改
-sortid: 9999
+# Full name (for SEO)
+first_name: Chenfeng
+last_name: Gu
+# 使用毕业年份作为排序字段
+sortid: 2025-1
+
+# Username (this should match the folder name)
+authors:
+  - 古晨峰
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Coach
+role: Vice Captain
 
 # Organizations/Affiliations
 organizations:
@@ -43,10 +47,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:ieypwu@zzu.edu.cn'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:test@example.org'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -65,14 +69,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Faculty
-
+  - Members
 ---
 
-http://www7.zzu.edu.cn/csai/info/1054/1358.htm
+Editing...

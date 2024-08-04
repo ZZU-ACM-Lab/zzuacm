@@ -58,7 +58,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: mit_wins.jpg
+          filename: henan4.jpg
           filters:
             brightness: 1
           parallax: false

@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2023 <br>
-  To: Beijing Institute of Technology
+  To: Beijing Institute of Technology (BIT)
 
 # Organizations/Affiliations
 organizations:

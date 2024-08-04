@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hao Li
+title: Hao Li 李浩
 
 # Full name (for SEO)
 first_name: Hao

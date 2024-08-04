@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 田侦
+title: Zhen Tian
 
 # Full Name (for SEO)
 first_name: Zhen
