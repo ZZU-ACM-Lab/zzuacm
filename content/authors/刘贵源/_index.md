@@ -77,12 +77,12 @@ user_groups:
   - Alumni
 ---
 
-Nickname: WAWA Fish <br>
+Nickname: WAWA鱼 <br>
 Hometown: Henan <br>
 Company: Xiaomi <br>
-Position: C++Browser Kernel Development Engineer <br>
+Position: C++ Browser Kernel（Webkit） Development Engineer <br>
 Job: Responsible for the kernel development of browser, search, content center and other software on Xiaomi mobile phones, tablets and other terminal devices <br>
-My QQ: 8750791562 <br>
-My phone number is 18303756676 <br>
-My blog: https://blog.csdn.net/qq_51282224 <br>
-If younger students have any confusion in their studies, work, life, etc., please feel free to consult me. I have stepped into many pitfalls, so I can give you some advice based on myself. Moreover, I have shared many job opportunities and provided resume guidance. If any students want to join Xiaomi, please feel free to contact me~
+QQ: 8750791562 <br>
+Phone number: 18303756676 <br>
+Blog: https://blog.csdn.net/qq_51282224 <br>
+If lower grades have any confusion in your studies, work, life, etc., welcome to chat with me anytime. I have stepped into many pitfalls during my college years, so I can offer some advice based on myself.In addition, if lower grades don't know how to find a job, can also come to me. I have done many job sharing sessions and provided resume guidance to some people.Finally, if any students want to join Xiaomi, please feel free to contact me anytime~
