@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Bo Wang
+title: Long Zhang
 
 # Full name (for SEO)
-first_name: Bo
-last_name: Wang
+first_name: Long
+last_name: Zhang
 
-sortid: 2023
+sortid: 2022
 
 # Username (this should match the folder name)
 authors:
-  - 王博
+  - 章龙
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2023 <br>
-  To: Beijing University of Posts and Telecommunications (BUPT)
+  Graduation year: 2022 <br>
+  To: Shandong University
 
 # Organizations/Affiliations
 organizations:

@@ -83,6 +83,12 @@ user_groups:
   - Alumni
 ---
 
-I am currently a master’s student with a strong passion for computer technology, particularly in the field of artificial intelligence. My academic journey began at Zhengzhou University (ZZU), where I earned a bachelor’s degree in Internet of Things Engineering (IoT). Building upon this foundation, I am now furthering my education at the University of Science and Technology of China (USTC), and joining the Intelligent Perception Lab under the guidance of Yan Chen.
+I am currently a master's student with a strong passion for computer technology, particularly in the field of artificial intelligence. My academic journey began at [Zhengzhou University (ZZU)](http://www.zzu.edu.cn/), where I earned a bachelor's degree in Internet of Things Engineering (IoT). Building upon this foundation, I am now furthering my education at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), and joining the [Intelligent Perception Lab](https://ustc-ip-lab.github.io/) under the guidance of [Yan Chen](https://ustc-ip-lab.github.io/author/yan-chen/).
+{style="text-align: justify;"}
 
+### More Info
+
+:star: My QQ: 2579272746 :star: <br>
 :zap: My profile: https://profile.wyqz.top/ :zap:
+
+欢迎大家来交流！

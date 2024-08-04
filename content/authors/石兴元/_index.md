@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Bo Wang
+title: Xingyuan Shi
 
 # Full name (for SEO)
-first_name: Bo
-last_name: Wang
+first_name: Xingyuan
+last_name: Shi
 
 sortid: 2023
 
 # Username (this should match the folder name)
 authors:
-  - 王博
+  - 石兴元
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2023 <br>
-  To: Beijing University of Posts and Telecommunications (BUPT)
+  To: Central South University (CSU)
 
 # Organizations/Affiliations
 organizations:

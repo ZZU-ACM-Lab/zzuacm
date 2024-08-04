@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Bo Wang
+title: Yuhao Bi
 
 # Full name (for SEO)
-first_name: Bo
-last_name: Wang
+first_name: Yuhao
+last_name: Bi
 
-sortid: 2023
+sortid: 2024
 
 # Username (this should match the folder name)
 authors:
-  - 王博
+  - 毕宇豪
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2023 <br>
-  To: Beijing University of Posts and Telecommunications (BUPT)
+  Graduation year: 2024 <br>
+  To: Universität Duisburg-Essen
 
 # Organizations/Affiliations
 organizations:
@@ -49,10 +49,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yuhao.bi@foxmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
