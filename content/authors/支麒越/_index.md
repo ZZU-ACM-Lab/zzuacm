@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qiyue Zhi
+title: Qiyue Zhi 支麒越
 
 # Full name (for SEO)
 first_name: Qiyue

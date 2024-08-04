@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaobo Gao
+title: Xiaobo Gao 高小博
 
 # Full name (for SEO)
 first_name: Xiaobo

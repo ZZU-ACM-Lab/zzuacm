@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jintao Tang
+title: Jintao Tang 汤锦涛
 
 # Full name (for SEO)
 first_name: Jintao

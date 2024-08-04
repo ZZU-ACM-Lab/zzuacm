@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bin Zhao
+title: Bin Zhao 赵斌
 
 # Full name (for SEO)
 first_name: Bin

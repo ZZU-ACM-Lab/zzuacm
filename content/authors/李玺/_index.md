@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xi Li
+title: Xi Li 李玺
 
 # Full name (for SEO)
 first_name: Xi

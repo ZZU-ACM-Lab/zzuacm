@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hui Li
+title: Hui Li 李辉
 
 # Full name (for SEO)
 first_name: Hui

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinghao Wu
+title: Xinghao Wu 武星皓
 
 # Full name (for SEO)
 first_name: Xinghao

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yunpeng Wu
+title: Yunpeng Wu 吴云鹏
 
 # Full Name (for SEO)
 first_name: Yunpeng

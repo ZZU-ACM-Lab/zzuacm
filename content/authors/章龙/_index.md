@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Long Zhang
+title: Long Zhang 章龙
 
 # Full name (for SEO)
 first_name: Long

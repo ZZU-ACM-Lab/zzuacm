@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhipeng Liang
+title: Zhipeng Liang 梁志鹏
 
 # Full name (for SEO)
 first_name: Zhipeng

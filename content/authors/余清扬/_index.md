@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qingyang Yu
+title: Qingyang Yu 余清扬
 
 # Full name (for SEO)
 first_name: Qingyang

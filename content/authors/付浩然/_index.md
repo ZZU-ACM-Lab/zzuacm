@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoran Fu
+title: Haoran Fu 付浩然
 
 # Full name (for SEO)
 first_name: Haoran

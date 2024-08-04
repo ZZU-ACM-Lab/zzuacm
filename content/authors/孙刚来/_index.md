@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ganglai Sun
+title: Ganglai Sun 孙刚来
 
 # Full name (for SEO)
 first_name: Ganglai

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Siwei Zhang
+title: Siwei Zhang 张四维
 
 # Full name (for SEO)
 first_name: Siwei

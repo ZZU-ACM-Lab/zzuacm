@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhengxing Guo
+title: Zhengxing Guo 郭郑兴
 
 # Full name (for SEO)
 first_name: Zhengxing

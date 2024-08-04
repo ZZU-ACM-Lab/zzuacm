@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dongming Zhao
+title: Dongming Zhao 赵东明
 
 # Full Name (for SEO)
 first_name: Dongming

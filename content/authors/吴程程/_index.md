@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chengcheng Wu
+title: Chengcheng Wu 吴程程
 
 # Full name (for SEO)
 first_name: Chengcheng

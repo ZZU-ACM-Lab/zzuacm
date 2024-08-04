@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xingyan Zhang
+title: Xingyan Zhang 张兴言
 
 # Full name (for SEO)
 first_name: Xingyan

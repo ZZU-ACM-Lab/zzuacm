@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yekun Wang
+title: Yekun Wang 王业坤
 
 # Full name (for SEO)
 first_name: Yekun

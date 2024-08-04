@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingxian Wang
+title: Jingxian Wang 王镜闲
 
 # Full name (for SEO)
 first_name: Jingxian

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peng Wang
+title: Peng Wang 王鹏
 
 # Full name (for SEO)
 first_name: Peng

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hongxing Lu
+title: Hongxing Lu 卢红星
 
 # Full Name (for SEO)
 first_name: Hongxing

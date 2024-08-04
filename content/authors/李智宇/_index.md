@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhiyu Li
+title: Zhiyu Li 李智宇
 
 # Full name (for SEO)
 first_name: Zhiyu

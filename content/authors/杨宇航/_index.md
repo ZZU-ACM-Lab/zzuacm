@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuhang Yang
+title: Yuhang Yang 杨宇航
 
 # Full name (for SEO)
 first_name: Yuhang

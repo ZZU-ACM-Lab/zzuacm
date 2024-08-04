@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Chen
+title: Yang Chen 陈洋
 
 # Full name (for SEO)
 first_name: Yang

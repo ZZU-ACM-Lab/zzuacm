@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shaojie Ma
+title: Shaojie Ma 马少杰
 
 # Full name (for SEO)
 first_name: Shaojie

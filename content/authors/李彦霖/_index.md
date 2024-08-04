@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanlin Li
+title: Yanlin Li 李彦霖
 
 # Full name (for SEO)
 first_name: Yanlin

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yipin Xin
+title: Yipin Xin 辛一品
 
 # Full name (for SEO)
 first_name: Yipin

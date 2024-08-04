@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xi Wang
+title: Xi Wang 王烯
 
 # Full name (for SEO)
 first_name: Xi

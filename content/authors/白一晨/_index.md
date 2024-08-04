@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yichen Bai
+title: Yichen Bai 白一晨
 
 # Full name (for SEO)
 first_name: Yichen

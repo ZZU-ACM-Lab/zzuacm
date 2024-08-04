@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kangjia Fan
+title: Kangjia Fan 范康佳
 
 # Full name (for SEO)
 first_name: Kangjia

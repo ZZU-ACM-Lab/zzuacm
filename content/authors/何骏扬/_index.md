@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junyang He
+title: Junyang He 何骏扬
 
 # Full name (for SEO)
 first_name: Junyang

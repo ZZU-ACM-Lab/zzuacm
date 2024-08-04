@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaoqiang Yan
+title: Xiaoqiang Yan 闫小强
 
 # Full Name (for SEO)
 first_name: Xiaoqiang

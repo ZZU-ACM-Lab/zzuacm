@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaohui Gao
+title: Xiaohui Gao 高小惠
 
 # Full name (for SEO)
 first_name: Xiaohui

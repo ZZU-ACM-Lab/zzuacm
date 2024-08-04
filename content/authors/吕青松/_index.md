@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qingsong Lyu
+title: Qingsong Lyu 吕青松
 
 # Full name (for SEO)
 first_name: Qingsong

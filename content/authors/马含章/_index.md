@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hanzhang Ma
+title: Hanzhang Ma 马含章
 
 # Full name (for SEO)
 first_name: Hanzhang

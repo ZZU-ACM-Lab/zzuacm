@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tong Wu
+title: Tong Wu 吴桐
 
 # Full name (for SEO)
 first_name: Tong

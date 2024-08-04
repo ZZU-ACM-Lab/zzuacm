@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yukun Mao
+title: Yukun Mao 毛玉昆
 
 # Full name (for SEO)
 first_name: Yukun

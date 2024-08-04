@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ziang Zhang
+title: Ziang Zhang 张子昂
 
 # Full name (for SEO)
 first_name: Ziang

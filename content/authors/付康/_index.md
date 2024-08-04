@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kang Fu
+title: Kang Fu 付康
 
 # Full name (for SEO)
 first_name: Kang

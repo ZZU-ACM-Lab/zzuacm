@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xihang Yue
+title: Xihang Yue 岳希航
 
 # Full name (for SEO)
 first_name: Xihang

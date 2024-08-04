@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bo Wang
+title: Bo Wang 王博
 
 # Full name (for SEO)
 first_name: Bo

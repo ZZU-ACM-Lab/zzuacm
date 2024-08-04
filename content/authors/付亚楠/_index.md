@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ya'nan Fu
+title: Ya'nan Fu 付亚楠
 
 # Full name (for SEO)
 first_name: Ya'nan

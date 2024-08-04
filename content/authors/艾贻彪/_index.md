@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yibiao Ai
+title: Yibiao Ai 艾贻彪
 
 # Full name (for SEO)
 first_name: Yibiao

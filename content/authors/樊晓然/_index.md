@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaoran Fan
+title: Xiaoran Fan 樊晓然
 
 # Full name (for SEO)
 first_name: Xiaoran

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shiji Liu
+title: Shiji Liu 刘世杰
 
 # Full name (for SEO)
 first_name: Shiji

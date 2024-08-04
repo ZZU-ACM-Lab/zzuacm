@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenjie Qin
+title: Wenjie Qin 秦文杰
 
 # Full name (for SEO)
 first_name: Wenjie

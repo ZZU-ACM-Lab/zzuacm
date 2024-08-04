@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chixin Wang
+title: Chixin Wang 王驰鑫
 
 # Full name (for SEO)
 first_name: Chixin

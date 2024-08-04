@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingkai Guo
+title: Jingkai Guo 郭靖凯
 
 # Full name (for SEO)
 first_name: Jingkai

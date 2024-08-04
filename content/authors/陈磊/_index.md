@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lei Chen
+title: Lei Chen 陈磊
 
 # Full name (for SEO)
 first_name: Lei

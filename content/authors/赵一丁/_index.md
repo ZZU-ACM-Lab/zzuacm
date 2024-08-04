@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yiding Zhao
+title: Yiding Zhao 赵一丁
 
 # Full name (for SEO)
 first_name: Yiding

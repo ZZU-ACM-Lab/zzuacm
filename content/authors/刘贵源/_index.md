@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guiyuan Liu
+title: Guiyuan Liu 刘贵源
 
 # Full name (for SEO)
 first_name: Guiyuan

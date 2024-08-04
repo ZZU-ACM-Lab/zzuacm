@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dewei Zhou
+title: Dewei Zhou 周德蔚
 
 # Full name (for SEO)
 first_name: Dewei

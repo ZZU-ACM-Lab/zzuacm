@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Weize Liu
+title: Weize Liu 刘伟泽
 
 # Full name (for SEO)
 first_name: Weize

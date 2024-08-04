@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chenfeng Gu
+title: Chenfeng Gu 古晨峰
 
 # Full name (for SEO)
 first_name: Chenfeng
@@ -72,7 +72,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Members
+  - Active Members
 ---
 
 Editing...

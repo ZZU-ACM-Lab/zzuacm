@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pengju Liu
+title: Pengju Liu 刘鹏举
 
 # Full name (for SEO)
 first_name: Pengju
@@ -77,4 +77,4 @@ user_groups:
   - Alumni
 ---
 
-Editing...
+欢迎想做游戏的找我玩，QQ：1152541346

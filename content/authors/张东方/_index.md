@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dongfang Zhang
+title: Dongfang Zhang 张东方
 
 # Full name (for SEO)
 first_name: Dongfang

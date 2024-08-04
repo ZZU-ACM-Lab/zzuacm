@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haofei Yang
+title: Haofei Yang 杨豪飞
 
 # Full name (for SEO)
 first_name: Haofei

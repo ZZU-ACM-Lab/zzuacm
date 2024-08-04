@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yaqi Wang
+title: Yaqi Wang 王亚琪
 
 # Full name (for SEO)
 first_name: Yaqi

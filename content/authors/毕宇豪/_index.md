@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuhao Bi
+title: Yuhao Bi 毕宇豪
 
 # Full name (for SEO)
 first_name: Yuhao

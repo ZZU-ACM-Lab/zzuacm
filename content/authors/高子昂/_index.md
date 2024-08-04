@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ziang Gao
+title: Ziang Gao 高子昂
 
 # Full name (for SEO)
 first_name: Ziang

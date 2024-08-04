@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Wenchuan Cai 蔡文川
+title: Tong Su 苏同
 
 # Full name (for SEO)
-first_name: Wenchuan
-last_name: Cai
+first_name: Tong
+last_name: Su
 
-sortid: 2021
+sortid: 2023
 
 # Username (this should match the folder name)
 authors:
-  - 蔡文川
+  - 苏同
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2021 <br>
-  To: Beihang University
+  Graduation year: 2023 <br>
+  To: Universität Zürich
 
 # Organizations/Affiliations
 organizations:

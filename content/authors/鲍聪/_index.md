@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cong Bao
+title: Cong Bao 鲍聪
 
 # Full name (for SEO)
 first_name: Cong

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lanfei Feng
+title: Lanfei Feng 冯蓝飞
 
 # Full name (for SEO)
 first_name: Lanfei

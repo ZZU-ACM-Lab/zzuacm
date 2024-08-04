@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yifei Huang
+title: Yifei Huang 黄毅飞
 
 # Full name (for SEO)
 first_name: Yifei

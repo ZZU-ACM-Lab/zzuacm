@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Song
+title: Yu Song 宋玉
 
 # Full Name (for SEO)
 first_name: Yu

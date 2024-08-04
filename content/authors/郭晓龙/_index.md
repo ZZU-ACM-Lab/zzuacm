@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaolong Guo
+title: Xiaolong Guo 郭晓龙
 
 # Full name (for SEO)
 first_name: Xiaolong

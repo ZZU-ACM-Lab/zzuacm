@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhipeng Hu
+title: Zhipeng Hu 胡志鹏
 
 # Full name (for SEO)
 first_name: Zhipeng

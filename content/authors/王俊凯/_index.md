@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junkai Wang
+title: Junkai Wang 王俊凯
 
 # Full name (for SEO)
 first_name: Junkai

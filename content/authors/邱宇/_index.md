@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Qiu
+title: Yu Qiu 邱宇
 
 # Full name (for SEO)
 first_name: Yu

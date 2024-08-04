@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xu Liu
+title: Xu Liu 刘旭
 
 # Full name (for SEO)
 first_name: Xu

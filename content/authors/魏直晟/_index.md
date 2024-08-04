@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhisheng Wei
+title: Zhisheng Wei 魏直晟
 
 # Full name (for SEO)
 first_name: Zhisheng

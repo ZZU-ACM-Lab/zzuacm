@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yulin Yao
+title: Yulin Yao 姚禹霖
 
 # Full name (for SEO)
 first_name: Yulin

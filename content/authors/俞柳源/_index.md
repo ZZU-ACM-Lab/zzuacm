@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liuyuan Yu
+title: Liuyuan Yu 俞柳源
 
 # Full name (for SEO)
 first_name: Liuyuan

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiakun Ding
+title: Jiakun Ding 丁佳坤
 
 # Full name (for SEO)
 first_name: Jiakun

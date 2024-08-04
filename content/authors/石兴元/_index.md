@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xingyuan Shi
+title: Xingyuan Shi 石兴元
 
 # Full name (for SEO)
 first_name: Xingyuan

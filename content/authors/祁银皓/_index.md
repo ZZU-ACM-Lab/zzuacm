@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yinhao Qi
+title: Yinhao Qi 祁银皓
 
 # Full name (for SEO)
 first_name: Yinhao

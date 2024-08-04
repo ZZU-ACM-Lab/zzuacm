@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Linwei Zheng
+title: Linwei Zheng 郑林威
 
 # Full name (for SEO)
 first_name: Linwei

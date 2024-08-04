@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiangjin Liu
+title: Xiangjin Liu 刘相锦
 
 # Full name (for SEO)
 first_name: Xiangjin

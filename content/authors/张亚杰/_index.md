@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yajie Zhang
+title: Yajie Zhang 张亚杰
 
 # Full name (for SEO)
 first_name: Yajie

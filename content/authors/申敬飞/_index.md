@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingfei Shen
+title: Jingfei Shen 申敬飞
 
 # Full name (for SEO)
 first_name: Jingfei

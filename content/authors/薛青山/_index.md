@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qingshan Xue
+title: Qingshan Xue 薛青山
 
 # Full name (for SEO)
 first_name: Qingshan

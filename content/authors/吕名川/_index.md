@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingchuan Lyu
+title: Mingchuan Lyu 吕名川
 
 # Full name (for SEO)
 first_name: Mingchuan

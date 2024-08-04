@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shuaibing Wang
+title: Shuaibing Wang 王帅兵
 
 # Full name (for SEO)
 first_name: Shuaibing

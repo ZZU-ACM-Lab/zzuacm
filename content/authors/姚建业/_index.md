@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianye Yao
+title: Jianye Yao 姚建业
 
 # Full name (for SEO)
 first_name: Jianye

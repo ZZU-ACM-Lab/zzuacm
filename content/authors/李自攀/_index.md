@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zipan Li
+title: Zipan Li 李自攀
 
 # Full name (for SEO)
 first_name: Zipan

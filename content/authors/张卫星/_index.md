@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Weixing Zhang
+title: Weixing Zhang 张卫星
 
 # Full Name (for SEO)
 first_name: Weixing

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaile Zhu
+title: Kaile Zhu 朱凯乐
 
 # Full name (for SEO)
 first_name: Kaile
