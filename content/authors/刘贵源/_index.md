@@ -49,10 +49,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:875079152@qq.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -77,4 +77,12 @@ user_groups:
   - Alumni
 ---
 
-Editing...
+Nickname: WAWA Fish <br>
+Hometown: Henan <br>
+Company: Xiaomi <br>
+Position: C++Browser Kernel Development Engineer <br>
+Job: Responsible for the kernel development of browser, search, content center and other software on Xiaomi mobile phones, tablets and other terminal devices <br>
+My QQ: 8750791562 <br>
+My phone number is 18303756676 <br>
+My blog: https://blog.csdn.net/qq_51282224 <br>
+If younger students have any confusion in their studies, work, life, etc., please feel free to consult me. I have stepped into many pitfalls, so I can give you some advice based on myself. Moreover, I have shared many job opportunities and provided resume guidance. If any students want to join Xiaomi, please feel free to contact me~

@@ -59,6 +59,15 @@ social:
     icon_pack: fab
     link: https://github.com/anda522
     label: Follow me on Github
+  - icon: blog
+    icon_pack: fas
+    link: https://wyqz.top
+  - icon: c
+    icon_pack: fas
+    link: https://blog.csdn.net/qq_50285142?type=blog
+  - icon: zhihu
+    icon_pack: fab
+    link: https://www.zhihu.com/people/an-si-da-zhu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,4 +85,4 @@ user_groups:
 
 I am currently a master’s student with a strong passion for computer technology, particularly in the field of artificial intelligence. My academic journey began at Zhengzhou University (ZZU), where I earned a bachelor’s degree in Internet of Things Engineering (IoT). Building upon this foundation, I am now furthering my education at the University of Science and Technology of China (USTC), and joining the Intelligent Perception Lab under the guidance of Yan Chen.
 
-My profile: https://profile.wyqz.top/
+:zap: My profile: https://profile.wyqz.top/ :zap:

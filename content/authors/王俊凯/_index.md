@@ -6,7 +6,7 @@ title: Junkai Wang
 first_name: Junkai
 last_name: Wang
 
-sortid: 2021
+sortid: 2020
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2021 <br>
+  Graduation year: 2020 <br>
   To: University of Science and Technology of China (USTC)
 
 # Organizations/Affiliations
