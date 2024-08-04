@@ -77,12 +77,13 @@ user_groups:
   - Alumni
 ---
 
-Nickname: WAWA鱼 <br>
-Hometown: Henan <br>
-Company: Xiaomi <br>
-Position: C++ Browser Kernel（Webkit） Development Engineer <br>
-Job: Responsible for the kernel development of browser, search, content center and other software on Xiaomi mobile phones, tablets and other terminal devices <br>
-QQ: 8750791562 <br>
-Phone number: 18303756676 <br>
-Blog: https://blog.csdn.net/qq_51282224 <br>
+**Nickname:** WAWA鱼 <br>
+**Hometown:** Henan <br>
+**Company:** Xiaomi <br>
+**Position:** C++ Browser Kernel（Webkit） Development Engineer <br>
+**Job:** Responsible for the kernel development of browser, search, content center and some software on Xiaomi mobile phones, tablets and some terminal devices. <br>
+**QQ:** 8750791562 <br>
+**Phone number:** 18303756676 <br>
+**Blog:** https://blog.csdn.net/qq_51282224 <br>
+**Want to say：**
 If lower grades have any confusion in your studies, work, life, etc., welcome to chat with me anytime. I have stepped into many pitfalls during my college years, so I can offer some advice based on myself.In addition, if lower grades don't know how to find a job, can also come to me. I have done many job sharing sessions and provided resume guidance to some people.Finally, if any students want to join Xiaomi, please feel free to contact me anytime~
