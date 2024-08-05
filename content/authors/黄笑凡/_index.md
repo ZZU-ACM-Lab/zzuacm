@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Zhiyu Li 李智宇
+title: Xiaofan Huang 黄笑凡
 
 # Full name (for SEO)
-first_name: Zhiyu
-last_name: Li
+first_name: Xiaofan
+last_name: Huang
 
 sortid: 2024
 
 # Username (this should match the folder name)
 authors:
-  - 李智宇
+  - 黄笑凡
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2024 <br>
-  To: University of Science and Technology of China (USTC)
+  To: Henan Experimental High School
 
 # Organizations/Affiliations
 organizations:
@@ -77,4 +77,4 @@ user_groups:
   - Alumni
 ---
 
-QQ: 2579272746 <br> 这个人很懒，还没想好介绍写什么。
+Editing...
