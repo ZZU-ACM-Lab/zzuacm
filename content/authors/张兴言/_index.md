@@ -6,7 +6,7 @@ title: Xingyan Zhang 张兴言
 first_name: Xingyan
 last_name: Zhang
 
-sortid: 2021
+sortid: 2020
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ superuser: false
 
 # Role/position
 role: >+
-  Graduation year: 2021 <br>
+  Graduation year: 2020 <br>
   To: Beihang University
 
 # Organizations/Affiliations
