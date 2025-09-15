@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Chenfeng Gu 古晨峰
+title: Xingyi Cai 蔡星旖
 
 # Full name (for SEO)
-first_name: Chenfeng
-last_name: Gu
-# 使用毕业年份作为排序字段
+first_name:  Xingyi
+last_name: Cai
+
 sortid: 2025
 
 # Username (this should match the folder name)
 authors:
-  - 古晨峰
+  - 蔡星旖
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 # Role/position
 role: >+
   Graduation year: 2025 <br>
-  To: Beihang University
+  To: Tianjin University
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  -  Alumni
+  - Alumni
 ---
 
 Editing...
