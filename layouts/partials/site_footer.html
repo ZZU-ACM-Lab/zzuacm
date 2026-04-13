@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  
+    {{/* 读取配置并替换年份 */}}
+    <p class="powered-by copyright-license-text">
+        {{ $notice := site.Params.footer.copyright.notice | default "© {year} ZZUACM. All Rights Reserved." }}
+        {{ replace $notice "{year}" now.Year | markdownify }}
+    </p>
+
+    {{/* 新增：最近修改日期和地点 */}}
+    <p class="powered-by">
+      Last updated: {{ .Lastmod.Format "January 2006" }}
+    </p>
+  </footer>

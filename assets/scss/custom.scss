@@ -1,0 +1,14 @@
+/* 页脚整体居中 */
+.site-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px 0;
+}
+  
+/* 调整版权文字和下方的间距 */
+.copyright-license-text {
+    margin-bottom: 10px;
+}

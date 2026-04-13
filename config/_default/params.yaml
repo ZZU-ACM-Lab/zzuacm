@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} · ZZUACM'
+    notice: '© {year} ZZUACM. All Rights Reserved.'
     license:
       enable: true
       allow_derivatives: false
