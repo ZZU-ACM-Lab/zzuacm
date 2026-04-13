@@ -6,8 +6,4 @@
         {{ replace $notice "{year}" now.Year | markdownify }}
     </p>
 
-    {{/* 新增：最近修改日期和地点 */}}
-    <p class="powered-by">
-      Last updated: {{ .Lastmod.Format "January 2006" }}
-    </p>
   </footer>
